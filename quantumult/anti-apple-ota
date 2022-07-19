@@ -1,0 +1,6 @@
+屏蔽更新Apple OTA更新
+;quantumult x
+;xp.apple.com
+host,gdmf.apple.com,reject
+host,mesu.apple.com,reject
+host,updates-http.cdn-apple.com,reject

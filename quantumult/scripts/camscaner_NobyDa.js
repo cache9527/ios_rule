@@ -20,5 +20,5 @@ https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? url simple-r
 hostname = ap*.intsig.net
 **************************/
 let obj = JSON.parse($response.body);
-obj = {"data":{"psnl_vip_property":{"expiry":"1687017600"}}};
+obj = {"data":{"psnl_vip_property":{"expiry":"1750176000"}}};
 $done({body: JSON.stringify(obj)});

@@ -9,7 +9,7 @@ hostname = ap*.intsig.net
 ***************************
 Surge4 or Loon:
 [Script]
-http-response https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? requires-body=1,max-size=0,script-path=cache9527/ios_rule/main/quantumult/scripts/camscaner.js
+http-response https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\? requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/cache9527/ios_rule/main/quantumult/scripts/camscaner_NobyDa.js
 [MITM]
 hostname = ap*.intsig.net
 ***************************

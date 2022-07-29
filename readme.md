@@ -2,3 +2,4 @@
 - shadowrocket
 - surge
 - quantumult
+- loon

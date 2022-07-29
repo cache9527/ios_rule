@@ -1,6 +1,0 @@
-
-;屏蔽iphone更新
-;Surge&Shadowrocket
-DOMAIN,mesu.apple.com
-DOMAIN,gdmf.apple.com
-DOMAIN,updates-http.cdn-apple.com
